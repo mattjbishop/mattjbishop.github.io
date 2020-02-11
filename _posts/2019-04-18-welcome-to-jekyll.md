@@ -6,11 +6,14 @@ categories:
 tags:
   - Jekyll
   - update
+#sidebar:
+#  - title: "ShareAlike"
+#    text: "![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png){:height='8px' width='1px' style=''} This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)."
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new posts, simply add a file in the `_posts` direct story that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 

@@ -71,15 +71,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matthewjbishop"
 
-sidebar:
-  - title: "ShareAlike"
-    text: "![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)."
-
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/MatthewJBishop"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matthewjbishop"
